@@ -1,4 +1,4 @@
-# Bubblemaps Telegram Bot
+# BubbleUP
 
 A powerful Telegram bot that provides comprehensive token analysis using data from Bubblemaps and CoinGecko. This bot helps users analyze tokens across multiple chains, providing detailed market data, token health metrics, and risk assessments.
 
